@@ -61,7 +61,7 @@ To follow these labs you will need:
 - Windows machine
 - PowerShell
 - Terraform installed
-- A code editor (recommended: Visual Studio Code)
+- A code editor (recommended: Use your favorite)
 
 These labs can be practiced locally without deploying real Azure resources if you only want to validate Terraform configuration files.
 
