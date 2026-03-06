@@ -1,4 +1,3 @@
-# Terraform-basic-labs-
 # Terraform Basic Labs (Azure)
 
 This repository provides structured Terraform labs designed to help beginners understand Azure infrastructure concepts and Infrastructure-as-Code practices.
