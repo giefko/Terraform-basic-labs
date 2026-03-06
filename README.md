@@ -105,6 +105,7 @@ For a better development experience it is recommended to install:
 
 - Visual Studio Code
 - Terraform extension for VS Code
+- Pycharm Terraform and HCL plugin
 
 These tools provide syntax highlighting, formatting, and configuration validation for Terraform files.
 
